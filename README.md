@@ -2,6 +2,8 @@
 
 [![Allure Report](https://img.shields.io/badge/Allure-Latest%20Report-blue?style=for-the-badge)](https://inqvan.github.io/nxlog_qa_test_task/)
 
+**[▶ Video Example of a Deletion Test](https://inqvan.github.io/nxlog_qa_test_task/data/attachments/29351ec73d7c0a26.webm)**
+
 Automated UI tests for https://demo.playwright.dev/todomvc/#/ — Playwright + Pytest + Allure, managed with uv.
 
 ## Setup and run
