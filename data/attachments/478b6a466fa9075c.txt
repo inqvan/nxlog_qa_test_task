@@ -1,0 +1,10 @@
+2026-09-02 14:57:26,533 INFO framework.definition.actions.ui.todo_actions: Opening the TodoMVC todo list
+2026-09-02 14:57:27,920 INFO framework.definition.actions.ui.todo_actions: Adding todo 'Submit the automation test task'
+2026-09-02 14:57:30,000 INFO framework.definition.actions.ui.todo_actions: Marking todo 'Submit the automation test task' as completed
+2026-09-02 14:57:31,132 INFO framework.definition.actions.ui.todo_actions: Verifying todo 'Submit the automation test task' is shown as completed
+2026-09-02 14:57:31,145 INFO framework.definition.actions.ui.todo_actions: Verifying the counter reports 0 item(s) left
+2026-09-02 14:57:31,150 INFO framework.definition.actions.ui.todo_actions: Switching to the 'Completed' view
+2026-09-02 14:57:32,284 INFO framework.definition.actions.ui.todo_actions: Verifying the current view shows exactly ['Submit the automation test task']
+2026-09-02 14:57:32,289 INFO framework.definition.actions.ui.todo_actions: Verifying todo 'Submit the automation test task' is shown as completed
+2026-09-02 14:57:32,298 INFO framework.definition.actions.ui.todo_actions: Switching to the 'Active' view
+2026-09-02 14:57:33,408 INFO framework.definition.actions.ui.todo_actions: Verifying todo 'Submit the automation test task' is not shown

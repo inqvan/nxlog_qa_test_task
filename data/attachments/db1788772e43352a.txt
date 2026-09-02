@@ -1,0 +1,8 @@
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:17 Opening the TodoMVC todo list
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:22 Adding todo 'Prepare the release notes'
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:22 Adding todo 'Submit the automation test task'
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:30 Marking todo 'Submit the automation test task' as completed
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:38 Switching to the 'Active' view
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:46 Verifying the current view shows exactly ['Prepare the release notes']
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:62 Verifying todo 'Prepare the release notes' is shown as active
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:54 Verifying todo 'Submit the automation test task' is not shown

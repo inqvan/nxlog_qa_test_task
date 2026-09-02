@@ -1,0 +1,8 @@
+2026-09-02 14:57:54,534 INFO framework.definition.actions.ui.todo_actions: Opening the TodoMVC todo list
+2026-09-02 14:57:55,830 INFO framework.definition.actions.ui.todo_actions: Adding todo 'Prepare the release notes'
+2026-09-02 14:57:57,915 INFO framework.definition.actions.ui.todo_actions: Adding todo 'Submit the automation test task'
+2026-09-02 14:58:00,004 INFO framework.definition.actions.ui.todo_actions: Marking todo 'Submit the automation test task' as completed
+2026-09-02 14:58:01,099 INFO framework.definition.actions.ui.todo_actions: Switching to the 'Completed' view
+2026-09-02 14:58:02,198 INFO framework.definition.actions.ui.todo_actions: Verifying the current view shows exactly ['Submit the automation test task']
+2026-09-02 14:58:02,212 INFO framework.definition.actions.ui.todo_actions: Verifying todo 'Submit the automation test task' is shown as completed
+2026-09-02 14:58:02,223 INFO framework.definition.actions.ui.todo_actions: Verifying todo 'Prepare the release notes' is not shown

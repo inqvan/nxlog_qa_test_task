@@ -1,0 +1,6 @@
+2026-09-02 14:57:22,452 INFO framework.definition.actions.ui.todo_actions: Opening the TodoMVC todo list
+2026-09-02 14:57:23,988 INFO framework.definition.actions.ui.todo_actions: Adding todo 'Buy milk on the way home'
+2026-09-02 14:57:26,093 INFO framework.definition.actions.ui.todo_actions: Verifying the current view shows exactly ['Buy milk on the way home']
+2026-09-02 14:57:26,102 INFO framework.definition.actions.ui.todo_actions: Verifying todo 'Buy milk on the way home' is shown as active
+2026-09-02 14:57:26,123 INFO framework.definition.actions.ui.todo_actions: Verifying the counter reports 1 item(s) left
+2026-09-02 14:57:26,130 INFO framework.definition.actions.ui.todo_actions: Verifying the new-todo input was reset after submitting

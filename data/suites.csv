@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3577","A new todo item can be added using non-English characters","tests.ui","Wed Sep 02 14:58:02 UTC 2026","passed","Wed Sep 02 14:58:06 UTC 2026","","test_add_todo","",""
+"","3407","A new todo item can be added using text that includes numbers","tests.ui","Wed Sep 02 14:58:06 UTC 2026","passed","Wed Sep 02 14:58:09 UTC 2026","","test_add_todo","",""
+"","7680","The Active filter shows only the todo items that are not completed","tests.ui","Wed Sep 02 14:57:46 UTC 2026","passed","Wed Sep 02 14:57:54 UTC 2026","","test_todo_filters","",""
+"","6880","A todo item can be marked as completed and appears in the Completed view","tests.ui","Wed Sep 02 14:57:26 UTC 2026","passed","Wed Sep 02 14:57:33 UTC 2026","","test_complete_todo","",""
+"","12061","A deleted todo item no longer appears in any view","tests.ui","Wed Sep 02 14:57:33 UTC 2026","passed","Wed Sep 02 14:57:45 UTC 2026","","test_delete_todo","",""
+"","7693","The Completed filter shows only the todo items that have been marked as completed","tests.ui","Wed Sep 02 14:57:54 UTC 2026","passed","Wed Sep 02 14:58:02 UTC 2026","","test_todo_filters","",""
+"","3685","A new todo item can be added using English text","tests.ui","Wed Sep 02 14:57:22 UTC 2026","passed","Wed Sep 02 14:57:26 UTC 2026","","test_add_todo","",""

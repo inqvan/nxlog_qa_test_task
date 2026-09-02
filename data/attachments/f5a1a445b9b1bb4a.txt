@@ -1,0 +1,15 @@
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:17 Opening the TodoMVC todo list
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:22 Adding todo 'Cancel the unused subscription'
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:22 Adding todo 'Prepare the release notes'
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:34 Deleting todo 'Cancel the unused subscription'
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:46 Verifying the current view shows exactly ['Prepare the release notes']
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:77 Verifying the counter reports 1 item(s) left
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:66 Verifying todo 'Cancel the unused subscription' is gone from every view
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:38 Switching to the 'All' view
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:54 Verifying todo 'Cancel the unused subscription' is not shown
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:38 Switching to the 'Active' view
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:54 Verifying todo 'Cancel the unused subscription' is not shown
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:38 Switching to the 'Completed' view
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:54 Verifying todo 'Cancel the unused subscription' is not shown
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:38 Switching to the 'All' view
+INFO     framework.definition.actions.ui.todo_actions:todo_actions.py:50 Verifying todo 'Prepare the release notes' is shown

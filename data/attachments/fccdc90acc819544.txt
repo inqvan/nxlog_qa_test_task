@@ -1,0 +1,15 @@
+2026-09-02 14:57:33,886 INFO framework.definition.actions.ui.todo_actions: Opening the TodoMVC todo list
+2026-09-02 14:57:35,183 INFO framework.definition.actions.ui.todo_actions: Adding todo 'Cancel the unused subscription'
+2026-09-02 14:57:37,288 INFO framework.definition.actions.ui.todo_actions: Adding todo 'Prepare the release notes'
+2026-09-02 14:57:39,371 INFO framework.definition.actions.ui.todo_actions: Deleting todo 'Cancel the unused subscription'
+2026-09-02 14:57:41,500 INFO framework.definition.actions.ui.todo_actions: Verifying the current view shows exactly ['Prepare the release notes']
+2026-09-02 14:57:41,522 INFO framework.definition.actions.ui.todo_actions: Verifying the counter reports 1 item(s) left
+2026-09-02 14:57:41,538 INFO framework.definition.actions.ui.todo_actions: Verifying todo 'Cancel the unused subscription' is gone from every view
+2026-09-02 14:57:41,538 INFO framework.definition.actions.ui.todo_actions: Switching to the 'All' view
+2026-09-02 14:57:42,659 INFO framework.definition.actions.ui.todo_actions: Verifying todo 'Cancel the unused subscription' is not shown
+2026-09-02 14:57:42,669 INFO framework.definition.actions.ui.todo_actions: Switching to the 'Active' view
+2026-09-02 14:57:43,778 INFO framework.definition.actions.ui.todo_actions: Verifying todo 'Cancel the unused subscription' is not shown
+2026-09-02 14:57:43,782 INFO framework.definition.actions.ui.todo_actions: Switching to the 'Completed' view
+2026-09-02 14:57:44,855 INFO framework.definition.actions.ui.todo_actions: Verifying todo 'Cancel the unused subscription' is not shown
+2026-09-02 14:57:44,858 INFO framework.definition.actions.ui.todo_actions: Switching to the 'All' view
+2026-09-02 14:57:45,942 INFO framework.definition.actions.ui.todo_actions: Verifying todo 'Prepare the release notes' is shown
